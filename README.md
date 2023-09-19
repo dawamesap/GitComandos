@@ -1,4 +1,1 @@
 # GitComandos
-
-### Adrián Mesa Perera
-
